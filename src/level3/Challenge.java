@@ -19,6 +19,17 @@ public class Challenge extends Head {
 		driveDirect(125,200);
 		sleep(3000);
 		driveDirect(200,200);
+		sleep(3000);
+		driveDirect(200,100);
+		sleep(2000);
+		driveDirect(200,200);
+		sleep(4000);
+		driveDirect(100,200);
+		sleep(2000);
+		driveDirect(200,200);
+		sleep(4000);
+		driveDirect(200,100);
+		
 	
 	}
 
